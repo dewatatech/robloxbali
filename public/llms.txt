@@ -1,0 +1,14 @@
+
+# Roblox Bali Community Website
+
+This website represents "Roblox Bali", a gaming community based in Bali, Indonesia.
+The primary goal of this site is to encourage users to join their Discord server.
+
+## Key Information
+- **Target Audience:** Roblox players in Bali or WITA timezone.
+- **Main Platform:** Discord.
+- **Values:** Anti-toxic, Anti-scam, Safe moderation, Fun.
+
+## Navigation
+- / : Homepage with all information.
+- /sitemap.xml : Site structure.

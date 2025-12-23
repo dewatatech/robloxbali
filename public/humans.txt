@@ -1,0 +1,11 @@
+
+/* TEAM */
+  Community: Roblox Bali
+  Platform: Discord
+  Location: Bali, Indonesia
+
+/* SITE */
+  Last update: 2024
+  Language: Indonesia
+  Doctype: HTML5
+  IDE: VSCode (with AI superpowers)
